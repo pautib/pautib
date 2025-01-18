@@ -108,5 +108,7 @@ When not coding, I enjoy fitness and exploring the intersection of technology an
 &nbsp; &nbsp;
 <a href="https://www.instagram.com/pautib/"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="30px" alt="Instagram"></a> 
 &nbsp; &nbsp;
+<a href="https://x.com/pautib1/" style="background-color: white"><img src="https://www.vectorlogo.zone/logos/x/x-icon.svg" width="30px" alt="X"></a> 
+&nbsp; &nbsp;
 
 
