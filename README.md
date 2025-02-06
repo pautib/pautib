@@ -1,18 +1,22 @@
 # 👋 Hello World. I'm Pau
 
 ### 🌟 About Me   
- - 💼 *I’m currently working on* backend development projects at *IGT*, designing and implementing middleware solutions for lottery systems.
- 
-- 🌱 *I’m currently learning* *React* and *Solidity* to build decentralized applications, improving my understanding of blockchain business models. 
+ - 💼 *I’m currently working on* backend development projects at *IGT*, designing and implementing middleware solutions for lottery systems in Java.
 
+   <!-- I’m currently learning* *React* and *Solidity* to build decentralized applications, improving my understanding of blockchain business models -->
+ 
+- 🌱 *I’m currently learning* *React* to build front-end applications and widening my skillset. 
+
+<!-- 
 - 👯 *I want to collaborate on* web3 projects, smart contract development, and blockchain integrations for innovative applications.
 
 - 🤔 *I’m looking for help with* gaining deeper expertise in advanced blockchain frameworks and exploring best practices in decentralized systems.
-  
+  -->
 - 😄 **Pronouns**: He/Him
-
+<!-- 
 - 💬 **Ask me about:** Backend development, Java, web3, and transitioning into blockchain technologies.
-
+-->
+- 💬 **Ask me about:** Backend development, Java, Javascript, Typescript, React, cryptocurrencies.
 
 ### 🛠 Tech Stack 
 
